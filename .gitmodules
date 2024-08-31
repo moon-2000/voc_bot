@@ -1,3 +1,6 @@
 [submodule "voca-chatbot"]
 	path = voca-chatbot
 	url = https://github.com/Joewings-jw/voca-chatbot.git
+[submodule "full_app"]
+	path = full_app
+	url = https://github.com/Vocalara/full_app.git
